@@ -1,1 +1,1 @@
-- Program or Be Programmed by Douglas Rushkoff(https://rushkoff.com/books/program-or-be-programmed/)
+- [Program or Be Programmed by Douglas Rushkoff](https://rushkoff.com/books/program-or-be-programmed/)

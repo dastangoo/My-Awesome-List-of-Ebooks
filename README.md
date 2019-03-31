@@ -1,1 +1,1 @@
-- Program or Be Programmed
+- Program or Be Programmed by Douglas Rushkoff
